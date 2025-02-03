@@ -1,5 +1,5 @@
 ## Code Contribution
-- `spring/spring-framework` : [Replaced hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
+- `spring/spring-framework` : [Replace hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
 
 
 
