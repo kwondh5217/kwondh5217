@@ -1,5 +1,6 @@
 ## Code Contribution
 - `spring/spring-framework` : [Replace hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
+- `spring/spring-security` : [Remove Deprecated Usages of RemoteJWKSet](https://github.com/spring-projects/spring-security/pull/16537)
 
 
 
