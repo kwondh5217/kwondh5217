@@ -3,6 +3,7 @@
 - `spring-projects/spring-security` : [Remove Deprecated Usages of RemoteJWKSet](https://github.com/spring-projects/spring-security/pull/16537) 
 - `line/armeria`(~ing) : [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072) 
 - `spring-projects/spring-security`(~ing) : [Replace dynamic error message with static "Access Denied"](https://github.com/spring-projects/spring-security/pull/16528)
+- `spring-projects/spring-framework` : [Resolve deprecation warnings in RuntimeHintsAgentPlugin](https://github.com/spring-projects/spring-framework/pull/34390)
 
 
 <!--
