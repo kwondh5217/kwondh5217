@@ -8,7 +8,6 @@
 
 
 
-https://github.com/line/armeria/pull/6118
 
 <!--
 **kwondh5217/kwondh5217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
