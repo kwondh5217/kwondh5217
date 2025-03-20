@@ -2,7 +2,7 @@
 - `spring-projects/spring-framework` : [Replace hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
 - `spring-projects/spring-framework` : [Resolve deprecation warnings in RuntimeHintsAgentPlugin](https://github.com/spring-projects/spring-framework/pull/34390)
 - `spring-projects/spring-security` : [Remove Deprecated Usages of RemoteJWKSet](https://github.com/spring-projects/spring-security/pull/16537)
-- `spring-projects/spring-security`(~ing) : [Replace dynamic error message with static "Access Denied"](https://github.com/spring-projects/spring-security/pull/16528)
+- `spring-projects/spring-security` : [Replace dynamic error message with static "Access Denied"](https://github.com/spring-projects/spring-security/pull/16528)
 - `line/armeria` : [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072)
 - `line/armeria`(~ing) : [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)  
 
