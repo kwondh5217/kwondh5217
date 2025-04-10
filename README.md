@@ -7,7 +7,7 @@
 - `line/armeria` : [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072)
 - `line/armeria` (~ing) : [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)
 - `line/armeria` : [Fix flaky tests using `Awaitility.await().untilAsserted()`](https://github.com/line/armeria/pull/6171)
-- `spring-projects/spring-boot` (~ing) : [Add missing attributes to FilterRegistration annotation](https://github.com/spring-projects/spring-boot/pull/45005)
+- `spring-projects/spring-boot` : [Add missing attributes to FilterRegistration annotation](https://github.com/spring-projects/spring-boot/pull/45005)
 
 
 
