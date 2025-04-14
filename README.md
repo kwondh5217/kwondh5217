@@ -1,4 +1,5 @@
 ## Code Contribution
+- `spring-projects/spring-boot` : [Add missing attributes to FilterRegistration annotation](https://github.com/spring-projects/spring-boot/pull/45005)
 - `spring-projects/spring-framework` : [Replace hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
 - `spring-projects/spring-framework` : [Resolve deprecation warnings in RuntimeHintsAgentPlugin](https://github.com/spring-projects/spring-framework/pull/34390)
 - `spring-projects/spring-security` : [Remove Deprecated Usages of RemoteJWKSet](https://github.com/spring-projects/spring-security/pull/16537)
@@ -7,7 +8,6 @@
 - `line/armeria` : [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072)
 - `line/armeria` (~ing) : [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)
 - `line/armeria` : [Fix flaky tests using `Awaitility.await().untilAsserted()`](https://github.com/line/armeria/pull/6171)
-- `spring-projects/spring-boot` : [Add missing attributes to FilterRegistration annotation](https://github.com/spring-projects/spring-boot/pull/45005)
 
 
 
