@@ -8,7 +8,7 @@
 - `spring-projects/spring-security` : [Update DeferredCsrfToken to implement Supplier](https://github.com/spring-projects/spring-security/pull/16905)
 - `spring-projects/spring-data-relational` : [Adopt to deprecated QueryMethod constructor](https://github.com/spring-projects/spring-data-relational/pull/2049)
 - `line/armeria` : [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072)
-- `line/armeria` (~ing) : [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)
+- `line/armeria` : [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)
 - `line/armeria` : [Fix flaky tests using `Awaitility.await().untilAsserted()`](https://github.com/line/armeria/pull/6171)
 
 
