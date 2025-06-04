@@ -2,7 +2,7 @@
 - `spring-projects/spring-boot` : [Add missing attributes to FilterRegistration annotation](https://github.com/spring-projects/spring-boot/pull/45005)
 - `spring-projects/spring-framework` : [Replace hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
 - `spring-projects/spring-framework` : [Resolve deprecation warnings in RuntimeHintsAgentPlugin](https://github.com/spring-projects/spring-framework/pull/34390)
-- `spring-projects/spring-framework` (~ing) : [Support @Import on interfaces](https://github.com/spring-projects/spring-framework/pull/34820)
+- `spring-projects/spring-framework` : [Support @Import on interfaces](https://github.com/spring-projects/spring-framework/pull/34820)
 - `spring-projects/spring-security` : [Remove Deprecated Usages of RemoteJWKSet](https://github.com/spring-projects/spring-security/pull/16537)
 - `spring-projects/spring-security` : [Replace dynamic error message with static "Access Denied"](https://github.com/spring-projects/spring-security/pull/16528)
 - `spring-projects/spring-security` : [Update DeferredCsrfToken to implement Supplier](https://github.com/spring-projects/spring-security/pull/16905)
