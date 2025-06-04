@@ -11,6 +11,7 @@
 - `line/armeria` : [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072)
 - `line/armeria` : [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)
 - `line/armeria` : [Fix flaky tests using `Awaitility.await().untilAsserted()`](https://github.com/line/armeria/pull/6171)
+- `micrometer-metrics/micrometer` (~ing) : [Add more tests for TimedHandler](https://github.com/micrometer-metrics/micrometer/pull/6343)
 
 <!--
 **kwondh5217/kwondh5217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
