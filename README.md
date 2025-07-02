@@ -28,6 +28,9 @@
 
 #### Micrometer
 - [Add more tests for TimedHandler](https://github.com/micrometer-metrics/micrometer/pull/6343)
+
+#### Reactor
+- [Repeat specification for use with repeatWhen operator](https://github.com/reactor/reactor-core/pull/4027)
 <!--
 **kwondh5217/kwondh5217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
