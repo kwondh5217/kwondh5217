@@ -12,20 +12,21 @@
 
 - [spring-boot](https://github.com/spring-projects/spring-boot)
   - Add missing attributes to FilterRegistration annotation [#45005](https://github.com/spring-projects/spring-boot/pull/45005)
-
-- [spring-data-relational](https://github.com/spring-projects/spring-data-relational)
-  - Adopt to deprecated QueryMethod constructor [#2049](https://github.com/spring-projects/spring-data-relational/pull/2049)
-
+    
 - [LINE/armeria](https://github.com/line/armeria)
   - Support for HTTP GET map parameters [#6072](https://github.com/line/armeria/pull/6072)
   - Support multi-value query parameters [#6118](https://github.com/line/armeria/pull/6118)
   - Fix flaky tests using Awaitility [#6171](https://github.com/line/armeria/pull/6171)
+ 
+- [reactor-core](https://github.com/reactor/reactor-core)
+  - Repeat specification for use with repeatWhen operator [#4027](https://github.com/reactor/reactor-core/pull/4027)
 
 - [micrometer](https://github.com/line/armeria)
   - Add more tests for TimedHandler [#6343](https://github.com/micrometer-metrics/micrometer/pull/6343)
+ 
+- [spring-data-relational](https://github.com/spring-projects/spring-data-relational)
+  - Adopt to deprecated QueryMethod constructor [#2049](https://github.com/spring-projects/spring-data-relational/pull/2049)
 
-- [reactor-core](https://github.com/reactor/reactor-core)
-  - Repeat specification for use with repeatWhen operator [#4027](https://github.com/reactor/reactor-core/pull/4027)
  
 <!--
 **kwondh5217/kwondh5217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
