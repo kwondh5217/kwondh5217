@@ -1,36 +1,32 @@
-## Code Contribution
+## Open Source Contributions
 
-#### Spring Framework
+- [spring-framework](https://github.com/spring-projects/spring-framework)
+  - Replace hardcoded "Sec-WebSocket-Version" with constant [#34319](https://github.com/spring-projects/spring-framework/pull/34319)
+  - Resolve deprecation warnings in RuntimeHintsAgentPlugin [#34390](https://github.com/spring-projects/spring-framework/pull/34390)
+  - Support @Import on interfaces [#34820](https://github.com/spring-projects/spring-framework/pull/34820)
 
-- [Replace hardcoded "Sec-WebSocket-Version" with constant](https://github.com/spring-projects/spring-framework/pull/34319)
-- [Resolve deprecation warnings in RuntimeHintsAgentPlugin](https://github.com/spring-projects/spring-framework/pull/34390)
-- [Support @Import on interfaces](https://github.com/spring-projects/spring-framework/pull/34820)
+- [spring-security](https://github.com/spring-projects/spring-security)
+  - Remove Deprecated Usages of RemoteJWKSet [#16537](https://github.com/spring-projects/spring-security/pull/16537)
+  - Replace dynamic error message with static "Access Denied" [#16528](https://github.com/spring-projects/spring-security/pull/16528)
+  - Update DeferredCsrfToken to implement Supplier [#16905](https://github.com/spring-projects/spring-security/pull/16905)
 
-#### Spring Security
+- [spring-boot](https://github.com/spring-projects/spring-boot)
+  - Add missing attributes to FilterRegistration annotation [#45005](https://github.com/spring-projects/spring-boot/pull/45005)
 
-- [Remove Deprecated Usages of RemoteJWKSet](https://github.com/spring-projects/spring-security/pull/16537)
-- [Replace dynamic error message with static "Access Denied"](https://github.com/spring-projects/spring-security/pull/16528)
-- [Update DeferredCsrfToken to implement Supplier](https://github.com/spring-projects/spring-security/pull/16905)
+- [spring-data-relational](https://github.com/spring-projects/spring-data-relational)
+  - Adopt to deprecated QueryMethod constructor [#2049](https://github.com/spring-projects/spring-data-relational/pull/2049)
 
-#### Spring Boot
+- [LINE/armeria](https://github.com/line/armeria)
+  - Support for HTTP GET map parameters [#6072](https://github.com/line/armeria/pull/6072)
+  - Support multi-value query parameters [#6118](https://github.com/line/armeria/pull/6118)
+  - Fix flaky tests using Awaitility [#6171](https://github.com/line/armeria/pull/6171)
 
-- [Add missing attributes to FilterRegistration annotation](https://github.com/spring-projects/spring-boot/pull/45005)
+- [micrometer](https://github.com/line/armeria)
+  - Add more tests for TimedHandler [#6343](https://github.com/micrometer-metrics/micrometer/pull/6343)
 
-#### Spring Data Relational
-
-- [Adopt to deprecated QueryMethod constructor](https://github.com/spring-projects/spring-data-relational/pull/2049)
-
-#### Armeria
-
-- [Support for HTTP GET map parameters](https://github.com/line/armeria/pull/6072)
-- [Support multi-value query parameters](https://github.com/line/armeria/pull/6118)
-- [Fix flaky tests using Awaitility](https://github.com/line/armeria/pull/6171)
-
-#### Micrometer
-- [Add more tests for TimedHandler](https://github.com/micrometer-metrics/micrometer/pull/6343)
-
-#### Reactor
-- [Repeat specification for use with repeatWhen operator](https://github.com/reactor/reactor-core/pull/4027)
+- [reactor-core](https://github.com/reactor/reactor-core)
+  - Repeat specification for use with repeatWhen operator [#4027](https://github.com/reactor/reactor-core/pull/4027)
+ 
 <!--
 **kwondh5217/kwondh5217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
