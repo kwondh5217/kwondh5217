@@ -16,7 +16,7 @@
   - Fix flaky tests using Awaitility [#6171](https://github.com/line/armeria/pull/6171)
 - [reactor-core](https://github.com/reactor/reactor-core)
   - Repeat specification for use with repeatWhen operator [#4027](https://github.com/reactor/reactor-core/pull/4027)
-- [micrometer](https://github.com/line/armeria)
+- [micrometer](https://github.com/micrometer-metrics/micrometer)
   - Add more tests for TimedHandler [#6343](https://github.com/micrometer-metrics/micrometer/pull/6343)
 - [spring-data-relational](https://github.com/spring-projects/spring-data-relational)
   - Adopt to deprecated QueryMethod constructor [#2049](https://github.com/spring-projects/spring-data-relational/pull/2049)
