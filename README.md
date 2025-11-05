@@ -20,6 +20,8 @@
   - Add more tests for TimedHandler [#6343](https://github.com/micrometer-metrics/micrometer/pull/6343)
 - [spring-data-relational](https://github.com/spring-projects/spring-data-relational)
   - Adopt to deprecated QueryMethod constructor [#2049](https://github.com/spring-projects/spring-data-relational/pull/2049)
+- [spring-batch](https://github.com/spring-projects/spring-batch)
+  - Support Lambda configuration in FlatFileItem builders [#5070](https://github.com/spring-projects/spring-batch/pull/5070)
 
  
 <!--
