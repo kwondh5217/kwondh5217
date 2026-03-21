@@ -10,6 +10,7 @@
   - Update DeferredCsrfToken to implement Supplier [#16905](https://github.com/spring-projects/spring-security/pull/16905)
 - [spring-boot](https://github.com/spring-projects/spring-boot)
   - Add missing attributes to FilterRegistration annotation [#45005](https://github.com/spring-projects/spring-boot/pull/45005)
+  - Add @ConditionalOnWebApplication to NettyReactiveWebServerAutoConfiguration [#49695](https://github.com/spring-projects/spring-boot/pull/49695)
 - [LINE/armeria](https://github.com/line/armeria)
   - Support for HTTP GET map parameters [#6072](https://github.com/line/armeria/pull/6072)
   - Support multi-value query parameters [#6118](https://github.com/line/armeria/pull/6118)
