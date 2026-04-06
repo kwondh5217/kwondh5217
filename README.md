@@ -15,6 +15,7 @@
   - Support for HTTP GET map parameters [#6072](https://github.com/line/armeria/pull/6072)
   - Support multi-value query parameters [#6118](https://github.com/line/armeria/pull/6118)
   - Fix flaky tests using Awaitility [#6171](https://github.com/line/armeria/pull/6171)
+  - Support for Envoy gRPC HTTP/1.1 bridge [#6689](https://github.com/line/armeria/pull/6689)
 - [reactor-core](https://github.com/reactor/reactor-core)
   - Repeat specification for use with repeatWhen operator [#4027](https://github.com/reactor/reactor-core/pull/4027)
 - [micrometer](https://github.com/micrometer-metrics/micrometer)
