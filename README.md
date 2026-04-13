@@ -8,8 +8,9 @@
 
 - [Spring Projects](https://github.com/spring-projects)
   - Support @Import on interfaces [#34820](https://github.com/spring-projects/spring-framework/pull/34820)
-  - Update DeferredCsrfToken to implement Supplier [#16905](https://github.com/spring-projects/spring-security/pull/16905)
+  - Annotations like @Ssl don't work on @Bean methods when using @ServiceConnection [#50033](https://github.com/spring-projects/spring-boot/pull/50033)
   - Add @ConditionalOnWebApplication to NettyReactiveWebServerAutoConfiguration [#49695](https://github.com/spring-projects/spring-boot/pull/49695)
+  - Update DeferredCsrfToken to implement Supplier [#16905](https://github.com/spring-projects/spring-security/pull/16905)
   - Support Lambda configuration in FlatFileItem builders [#5070](https://github.com/spring-projects/spring-batch/pull/5070)
   - Add missing attributes to FilterRegistration annotation [#45005](https://github.com/spring-projects/spring-boot/pull/45005)
   - Remove Deprecated Usages of RemoteJWKSet [#16537](https://github.com/spring-projects/spring-security/pull/16537)
