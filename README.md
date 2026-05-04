@@ -10,6 +10,7 @@
   - Support @Import on interfaces [#34820](https://github.com/spring-projects/spring-framework/pull/34820)
   - Annotations like @Ssl don't work on @Bean methods when using @ServiceConnection [#50033](https://github.com/spring-projects/spring-boot/pull/50033)
   - Add @ConditionalOnWebApplication to NettyReactiveWebServerAutoConfiguration [#49695](https://github.com/spring-projects/spring-boot/pull/49695)
+  - Meter registries are not removed from the global registry when the context is closed [#50235](https://github.com/spring-projects/spring-boot/pull/50235)
   - Apply HTML escaping to timestamp attribute in Whitelabel error page [#50205](https://github.com/spring-projects/spring-boot/pull/50205)
   - Update DeferredCsrfToken to implement Supplier [#16905](https://github.com/spring-projects/spring-security/pull/16905)
   - Support Lambda configuration in FlatFileItem builders [#5070](https://github.com/spring-projects/spring-batch/pull/5070)
