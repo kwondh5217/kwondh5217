@@ -2,6 +2,9 @@
 
 - [apache/kafka](https://github.com/apache/kafka)
   - Fix stickyNode using stale IP when broker address changes [#21983](https://github.com/apache/kafka/pull/21983)
+
+- [netty/netty](https://github.com/netty/netty)
+  - Route synchronous onLookupComplete exceptions via fireExceptionCaught [#16794](https://github.com/netty/netty/pull/16794)
  
 - [reactor-core](https://github.com/reactor/reactor-core)
   - Repeat specification for use with repeatWhen operator [#4027](https://github.com/reactor/reactor-core/pull/4027)
